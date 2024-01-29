@@ -18,7 +18,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  [git clone https://github.com/codebasics/langchain.git](https://github.com/Akshaysmk07/EQUITY-RESERACH-TOOL.git)
+  git clone https://github.com/Akshaysmk07/EQUITY-RESERACH-TOOL.git
 ```
 2.Navigate to the project directory:
 
